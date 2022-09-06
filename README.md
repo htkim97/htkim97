@@ -1,6 +1,7 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=HyeontaeKim&fontSize=70&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hyeontae&fontSize=90)
+
 
 
 
