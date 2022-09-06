@@ -40,7 +40,7 @@ Here are some ideas to get you started:
   <br/>
  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
- <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
+
  <img src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=Webpack&logoColor=white"/>
   <br/>
  <img src="https://img.shields.io/badge/-Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>
